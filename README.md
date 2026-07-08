@@ -1,7 +1,7 @@
 # Principal Component Analysis
 ### Anderson Cancer Center — Dimensionality Reduction Project
 
-## Project Overview
+## Overview
 The Anderson Cancer Center is facing a growing number of referrals and needs
 to identify the essential variables driving cancer diagnoses in order to
 support a model used for securing donor funding. This project uses
