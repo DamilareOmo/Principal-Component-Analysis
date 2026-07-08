@@ -1,4 +1,4 @@
-# Milestone Assignment 2: Principal Component Analysis
+# Principal Component Analysis
 ### Anderson Cancer Center — Dimensionality Reduction Project
 
 ## Project Overview
@@ -159,4 +159,4 @@ R (for `unzip_project.R`) requires only base R — no additional packages
 needed.
 
 ## Author
-Sodiq Omoniyi, Data Analyst
+Sodiq Omoniyi | Data Analyst | Milestone Assignment 2: Principal Component Analysis.
